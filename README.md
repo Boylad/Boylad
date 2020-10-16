@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Boylad's github stats](https://github-readme-stats.vercel.app/api?username=Boylad&count_private=true&show_icons=true&theme=default)](https://guankui.name) 
+[![Boylad's github stats](https://github-readme-stats.vercel.app/api?username=Boylad&count_private=true&show_icons=true&theme=default)](https://www.guankui.name) 
 
 
 
